@@ -1,0 +1,21 @@
+footer{
+	background-color: #fff7fe;
+}
+footer h5{
+	font-weight: bold;
+}
+footer ul{
+	padding: 0px;
+	margin: 0px;
+}
+footer li{
+	list-style: none;	
+}
+footer a{
+	color: gray;
+	text-decoration: none !important;
+}
+.derechos{
+	font-size: 12px;
+	font-weight: bold;
+}
